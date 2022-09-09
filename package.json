@@ -1,0 +1,24 @@
+{
+  "name": "git_commands",
+  "version": "1.0.0",
+  "description": "This is first git commands",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqsoodkhan7299/git_test2.git"
+  },
+  "author": "Maqsood Ahemed Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maqsoodkhan7299/git_test2/issues"
+  },
+  "homepage": "https://github.com/maqsoodkhan7299/git_test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
